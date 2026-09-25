@@ -1,1 +1,43 @@
-# Automacao Contabil Meiri`n`n> Portfolio publico de uma automacao local para apoiar conferencia contabil e geracao de lotes operacionais.`n`n## O que o produto demonstra`n`n- preparacao de lancamentos para processamento em lote;`n- conferencias e validacoes antes da exportacao;`n- organizacao de fluxos por empresa;`n- scripts operacionais para ambiente Windows;`n- reducao de tarefas manuais repetitivas.`n`n## Fluxo resumido`n`n```text`nDados de entrada -> conferencia -> validacao -> lote contabil -> resultado local`n````n`n## Privacidade`n`nO codigo operacional, regras especificas e dados de clientes permanecem privados. Nunca publique documentos fiscais, credenciais ou resultados reais.`n`n**Todos os direitos reservados - TLopeSolutions.**
+# Automação Contábil Meiri
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/status-portfolio-2563EB?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+**Automação local para conferência contábil e geração de lotes operacionais.**
+
+</div>
+
+## Visão geral
+
+Este projeto apoia rotinas contábeis repetitivas por meio de conferências, validações e preparação de lotes para processamento operacional.
+
+## O que o produto demonstra
+
+- Preparação de lançamentos para processamento em lote.
+- Conferências e validações antes da exportação.
+- Organização de fluxos por empresa.
+- Scripts operacionais para ambiente Windows.
+- Redução de tarefas manuais repetitivas.
+
+## Fluxo resumido
+
+```text
+Dados de entrada
+   ↓
+Conferência
+   ↓
+Validação
+   ↓
+Lote contábil
+   ↓
+Resultado local
+```
+
+## Privacidade
+
+O código operacional, as regras específicas e os dados de clientes permanecem privados. Nunca publique documentos fiscais, credenciais ou resultados reais.
+
+**Todos os direitos reservados — TLopeSolutions.**
